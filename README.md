@@ -7,4 +7,4 @@ Learn about helping HTML Generator in https://sites.google.com/site/htmlgenerato
 <table style="border:1px solid black;">
 <tr><th>Version</th><th>File name</th><th>Released</th></tr>
 <tr><td>1</td><td>htmlGenV1.zip</td><td>July 30, 2015</td></tr>
-<tr><td>2</td><td></td><td>In progress</td></tr></table>
+<tr><td>2</td><td>Not released</td><td>In progress</td></tr></table>
