@@ -28,3 +28,9 @@ red
 <div style="width:100%;height:500px;background-color:blue;font-family:tahoma,arial;font-size:12pt;color:red;"></div>
 <!--the code comes out-->
 ```
+Codes available by version:
+X = available
+<table style="border:1px solid black;">
+<tr><td></td><td>Version 1</td></tr>
+<tr><td>styleCSS</td><td>X</td></tr>
+</table>
