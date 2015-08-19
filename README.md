@@ -26,6 +26,5 @@ font color
 red
 ----------
 <div style="width:100%;height:500px;background-color:blue;font-family:tahoma,arial;font-size:12pt;color:red;"></div>
-<!--the code comes out-->
-```
+<!--the code comes out-->```
 
