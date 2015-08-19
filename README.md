@@ -12,7 +12,7 @@ Learn about helping HTML Generator in https://sites.google.com/site/htmlgenerato
 <tr><td><i>2</i></td><td><i>Not released</i></td><td><i>In progress</i></td></tr></table>
 Example:<br>
 ```
-width
+width <!--define the properties such as width:100%-->
 100%
 height
 500px
@@ -26,4 +26,5 @@ font color
 red
 ----------
 <div style="width:100%;height:500px;background-color:blue;font-family:tahoma,arial;font-size:12pt;color:red;"></div>
+<!--the code comes out-->
 ```
