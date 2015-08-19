@@ -10,3 +10,21 @@ Learn about helping HTML Generator in https://sites.google.com/site/htmlgenerato
 <tr><th>Version</th><th>File name</th><th>Released</th></tr>
 <tr><td><b>1</b></td><td><b>htmlGenV1.zip</b></td><td><b>July 30, 2015</b></td></tr>
 <tr><td><i>2</i></td><td><i>Not released</i></td><td><i>In progress</i></td></tr></table>
+Example:<br>
+<code>
+width<br>
+100%<br>
+height<br>
+500px<br>
+background color<br>
+blue<br>
+font family<br>
+tahoma,arial<br>
+font size<br>
+12pt<br>
+font color<br>
+red<br>
+----------<br>
+&lt;div style="width:100%;height:500px;background-color:blue;font-family:tahoma,arial;font-size:12pt;color:red;"></div>
+
+</code>
