@@ -9,7 +9,7 @@ Learn about helping HTML Generator in https://sites.google.com/site/htmlgenerato
 <table style="border:1px solid black;">
 <tr><th>Version</th><th>File name</th><th>Released</th></tr>
 <tr><td><b>1</b></td><td><b>htmlGenV1.zip</b></td><td><b>July 30, 2015</b></td></tr>
-<tr><td><i>2</i></td><td><i>Not released</i></td><td><i>In progress</i></td></tr></table>
+<tr><td><i>2</i></td><td><i>Not released</i></td><td><i>In progress</td></tr></table>
 Example:<br>
 ```
 width <!--define the properties such as width:100%-->
