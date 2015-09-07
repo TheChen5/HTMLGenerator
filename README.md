@@ -4,6 +4,7 @@ Just enter the properties and out will come HTML & CSS code .<br>
 Visit our website at https://sites.google.com/site/htmlgenerator123/ .<br>
 Download HTML Generator at https://sites.google.com/site/htmlgenerator123/downloads .<br>
 Learn about helping HTML Generator in https://sites.google.com/site/htmlgenerator123/for-dev .<br>
+SECURITY REPORT AVAILABLE. Go to website to see it.<br>
 <b>bold</b> = latest release<br>
 <i>italics</i> = in progress<br>
 <table style="border:1px solid black;">
