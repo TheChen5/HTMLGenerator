@@ -11,7 +11,7 @@ SECURITY REPORT AVAILABLE. Go to website to see it.<br>
 <tr><th>Version</th><th>File name</th><th>Released</th></tr>
 <tr><td><b>1</b></td><td><b>htmlGenV1.zip</b></td><td><b>July 30, 2015</b></td></tr>
 <tr><td><i>2</i></td><td><i>Not released</i></td><td><i>In progress</td></tr></table><br>
-Version 2 to be released Jan. 17, 2015.<br>
+Version 2 to be released Jan. 17, 2016.<br>
 Example:<br>
 ```
 width <!--define the properties such as width:100%-->
