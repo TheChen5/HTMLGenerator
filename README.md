@@ -10,8 +10,8 @@ SECURITY REPORT AVAILABLE. Go to website to see it.<br>
 <i>italics</i> = in progress<br>
 <table style="border:1px solid black;">
 <tr><th>Version</th><th>File name</th><th>Released</th></tr>
-<tr><td><b>1</b></td><td><b>htmlGenV1.zip</b></td><td><b>July 30, 2015</b></td></tr>
-<tr><td><i>2</i></td><td><i>Not released</i></td><td><i>In progress</td></tr></table><br>
+<tr><td>1</td><td>htmlGenV1.zip</td><td>July 30, 2015</td></tr>
+<tr><td><b>2</b></td><td><b>Not released</b></td><td><b>In progress</b></td></tr></table><br>
 Version 2 to be released Jan. 17, 2016.<br>
 Example:<br>
 ```
