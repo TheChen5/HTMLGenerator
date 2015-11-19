@@ -1,6 +1,8 @@
-//converts pixels to points
-//came with version 1
-//now excluded from HTML GENERATOR
+/*
+converts pixels to points
+came with version 1
+now excluded from HTML GENERATOR
+*/
 
 import java.util.Scanner;
 public class pxToPtConv{
