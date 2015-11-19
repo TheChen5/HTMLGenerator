@@ -1,5 +1,5 @@
-<span style="background-color:red;color:white;">HTML GENERATOR IS NOW ON HIATUS UNTIL IT GAINS AT LEAST 3 FOLLOWERS</span>
-
+## HTML GENERATOR IS NOW ON HIATUS UNTIL IT GAINS AT LEAST 3 FOLLOWERS
+On November 18, 2015, HTML Generator has been put on hiatus as it lacks in users. HTML Generator development will be halted until this repository gains <i>at least 3 followers</i>.
 # &lt;Gen/> HTML Generator
 The Java tool that generates HTML &amp; CSS code!<br>
 Just enter the properties and out will come HTML & CSS code .<br>
