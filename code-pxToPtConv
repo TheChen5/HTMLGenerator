@@ -8,9 +8,9 @@ public class pxToPtConv{
     public static void main(String[] args){
     Scanner in = new Scanner(System.in);
     System.out.println("# px");
-    double px = in.nextDouble(); //asks user to enter value of variable px which is the number of pixels
-    double pt = px * 0.75; //converts number of pixels to number of points
-    System.out.println(pt + "pt"); //prints out number of points
+    double px = in.nextDouble();
+    double pt = px * 0.75;
+    System.out.println(pt + "pt");
     System.out.println("");
 }
 }
