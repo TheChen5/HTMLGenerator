@@ -1,0 +1,14 @@
+//lists a few domains
+//came with version 1 and 2
+//to be excluded if there are later versions of HTML GENERATOR
+
+public class domainList
+{
+    public static void main(String[] args){
+        String domain[] = {"com","org","ws","net","co","us", "xyz", "biz", "guru", "io", "tv", "ca", "uk", "edu*", "gov*"};
+        for(int d=0;d<domain.length;d++){
+            System.out.print("." + domain[d] + " ");
+        }
+        System.out.println("");
+    }
+}
